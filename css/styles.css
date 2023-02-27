@@ -1,0 +1,329 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+	width:1370px;
+	margin:0 auto;
+	/* padding:0 30px; */
+}
+.flex-container{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	margin:0 -15px;
+	padding:0px 30px;
+}
+.flex-item1{
+	width:8.33%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.flex-item1{
+	width:8.33%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.flex-item2{
+	width:16.66%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.flex-item3{
+	width:25%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.flex-item4{
+	width:33.33%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.flex-item5{
+	width:41.66%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.flex-item6{
+	width:50%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.flex-item7{
+	width:58.33%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.flex-item8{
+	width:66.66%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.flex-item9{
+	width:75%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.flex-item10{
+	width:83.33%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.flex-item11{
+	width:91.66%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.flex-item12{
+	width:100%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.flex-item20{
+	width:20%;
+	flex:0 0 auto;
+	padding:0 15px;
+}
+.justify{
+	
+	justify-content:center;
+}
+
+
+.header{
+	
+	background:grey;
+	padding: 10px 0;
+}
+.header-content1{
+	height:60px;
+	background:white;
+}
+.header-content2{
+	height:60px;
+	background:white;
+}
+.header-content3{
+	height:60px;
+	background:white;
+}
+.banner-section{
+	background:darkgrey;
+	
+	padding: 60px 0;
+}
+.banner-content{
+	background:white;
+	height:220px;
+	width:40%;
+	margin:0 auto;
+}
+.banner-content1{
+	background:white;
+	height:200px;
+	margin-top: 50px;
+}
+.office-section{
+	background:grey;
+	
+	padding: 100px 0;
+}
+.office-content{
+	background:white;
+	height:500px;
+}
+.office-content2{
+	background:white;
+	height:75px;
+	margin-top: 40px;
+}
+.corp-section{
+	background:darkgrey;
+	
+	padding:50px 0;
+}
+.corp-content1{
+	background:white;
+	height:500px
+}
+.corp-content2{
+	background:white;
+	height:110px;
+	margin: 0 0 20px 0;
+}
+.corp-content3{
+	background:white;
+	height:110px;
+	margin-right: -20px;
+}
+.service-section{
+	background:grey;
+	
+	padding: 25px 0;
+}
+.service-content1{
+	background:white;
+	height:75px;
+	width:350px;
+	margin: 0 30px;
+}
+.service-content2{
+	background:white;
+	height: 300px;
+    margin: 20px 0;
+	
+}
+.call{
+	background:darkgrey;
+	
+	padding:25px 0;
+}
+.call-content{
+	background:white;
+	height:250px;
+	width:80%;
+	margin:0 auto;
+}
+.portfolio-section{
+	background:grey;
+	
+	padding: 20px 0;
+}
+.portfolio-content1{
+	background:white;
+	height:75px;
+	width:350px;
+	margin: 0 30px;
+}
+.portfolio-content2{
+	background:white;
+	height:600px;
+	margin: 25px 0;
+}
+.portfolio-content3{
+	background:white;
+	height:425px;
+	margin: 25px 0;
+}
+.portfolio-content4{
+	background:white;
+	height:300px;
+	margin: 25px 0;
+}
+.column1{
+	height:1000px;
+}
+.customer-section{
+	background:darkgrey;
+	padding: 25px;
+}
+.customer-content1{
+	background:white;
+	height:400px;
+}
+.customer-content2{
+	background:white;
+	height:75px;
+	margin: 0 0 10px 0;
+}
+.customer-content3{
+	background:white;
+	height:80px;
+	margin: 25px 15px 15px -30px;	
+}
+.enterpreneur{
+	background:grey;
+	padding:20px 0;
+}
+.pic{
+	background:white;
+	width:100px;
+	height:100px;
+	border-radius:50%;
+	margin:0 auto;
+}
+.name{
+	height:75px;
+	width:400px;
+	background:white;
+	margin:10px auto;
+	
+}
+.description{
+	height:100px;
+	width:800px;
+	background:white;
+	margin:0 auto;
+}
+.team-section{
+	background:darkgrey;
+	padding:20px 0;
+}
+.team-content{
+	height:75px;
+	background:white;
+	width:350px;
+	margin: 0 0 0 30px;
+}
+.team-content2{
+	background:white;
+	height:400px;
+	margin: 20px 0
+}
+.contact-section{
+	background:grey;
+	padding:20px 0;
+}
+.contact-content{
+	height:75px;
+	background:white;
+	width:200px;
+	margin: 0 0 0 30px;
+}
+.location{
+	background:white;
+	height:300px;
+	width:90%;
+	margin:20px 0 0 30px;
+}
+.form-section{
+	background:darkgrey;
+	padding:20px 0;
+}
+.form-content1{
+	height:400px;
+	background:white;
+}
+.form-content2{
+	height:550px;
+	background:white;
+}
+.footer-section{
+	background:grey;
+	padding:20px 0;
+}
+.footer-content1{
+	height:400px;
+	background:white;
+}
+.footer-content2{
+	height:300px;
+	background:white;
+}
+.copyright-section{
+	background:darkgrey;
+	padding:20px 0;
+}
+.copyright-content1{
+	background:white;
+	width:400px;
+	height:30px;
+	margin:10px auto;
+}
+.copyright-content2{
+	background:white;
+	width:300px;
+	height:30px;
+	margin:0 auto;
+}
